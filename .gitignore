@@ -1,0 +1,13 @@
+# Ignore IDE settings
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+
+# Ignore build folder
+target/
+
+# Ignore README nếu không muốn push
+README
+README.md
